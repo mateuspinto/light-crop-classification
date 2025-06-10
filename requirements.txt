@@ -94,7 +94,7 @@ python-dateutil==2.9.0.post0
 pytz==2025.1
 pyzmq==26.2.1
 ratelim==0.1.6
-requests==2.32.3
+requests==2.32.4
 returns==0.24.0
 rsa==4.9
 scikit-learn==1.6.1
