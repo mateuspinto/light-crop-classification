@@ -80,3 +80,21 @@
 ## Dataset download
 
 https://drive.google.com/drive/folders/1-thTENvAVfAtFOoBvNFuB7PMHvyhyr84?usp=sharing
+
+## Median justification
+
+### 5th and 95th Percentiles of Spatial Standard Deviation — California
+
+| Percentile     | blue | green | red  | re1  | re2  | re3  | nir  | re4  | swir1 | swir2 |
+|----------------|------|--------|------|------|------|------|------|------|--------|--------|
+| 5th percentile | 0.00 | 0.00   | 0.00 | 0.00 | 0.00 | 0.01 | 0.01 | 0.01 | 0.01   | 0.00   |
+| 95th percentile| 0.02 | 0.02   | 0.03 | 0.03 | 0.04 | 0.05 | 0.05 | 0.05 | 0.04   | 0.04   |
+
+---
+
+### 5th and 95th Percentiles of Spatial Standard Deviation — Texas
+
+| Percentile     | blue | green | red  | re1  | re2  | re3  | nir  | re4  | swir1 | swir2 |
+|----------------|------|--------|------|------|------|------|------|------|--------|--------|
+| 5th percentile | 0.00 | 0.00   | 0.00 | 0.01 | 0.01 | 0.01 | 0.01 | 0.01 | 0.01   | 0.01   |
+| 95th percentile| 0.02 | 0.02   | 0.03 | 0.04 | 0.04 | 0.05 | 0.05 | 0.05 | 0.06   | 0.05   |
