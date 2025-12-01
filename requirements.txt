@@ -19,7 +19,7 @@ earthengine-api==1.5.3
 eerepr==0.1.1
 executing==2.2.0
 folium==0.19.4
-fonttools==4.56.0
+fonttools==4.61.0
 func-timeout==4.3.5
 future==1.0.0
 gdal==3.8.4
