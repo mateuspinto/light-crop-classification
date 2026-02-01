@@ -25,7 +25,7 @@ future==1.0.0
 gdal==3.8.4
 geemap==0.35.1
 geocoder==1.38.1
-geopandas==1.0.1
+geopandas==1.1.2
 google-api-core==2.24.1
 google-api-python-client==2.161.0
 google-auth==2.38.0
